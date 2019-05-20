@@ -1,0 +1,355 @@
+10:48:52.027 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:48:00 CST 2018
+10:48:52.030 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:48:52.031 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:48:52.032 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:48:52.032 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:49:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:49:00 CST 2018
+10:49:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:49:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:49:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:49:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:50:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:50:00 CST 2018
+10:50:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:50:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:50:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:50:00.009 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:51:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:51:00 CST 2018
+10:51:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:51:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:51:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:51:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:52:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:52:00 CST 2018
+10:52:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:52:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:52:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:52:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:53:00.003 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:53:00 CST 2018
+10:53:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:53:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:53:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:53:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:54:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:54:00 CST 2018
+10:54:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:54:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:54:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:54:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:55:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:55:00 CST 2018
+10:55:00.000 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:55:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:55:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:55:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:56:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:56:00 CST 2018
+10:56:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:56:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:56:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:56:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:57:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:57:00 CST 2018
+10:57:00.000 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:57:00.000 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:57:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:57:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:58:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:58:00 CST 2018
+10:58:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:58:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:58:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:58:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:59:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 10:59:00 CST 2018
+10:59:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:59:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+10:59:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+10:59:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:00:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:00:00 CST 2018
+11:00:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:00:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:00:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:00:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:01:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:01:00 CST 2018
+11:01:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:01:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:01:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:01:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:02:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:02:00 CST 2018
+11:02:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:02:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:02:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:02:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:03:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:03:00 CST 2018
+11:03:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:03:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:03:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:03:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:04:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:04:00 CST 2018
+11:04:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:04:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:04:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:04:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:05:00.004 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:05:00 CST 2018
+11:05:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:05:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:05:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:05:00.011 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:06:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:06:00 CST 2018
+11:06:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:06:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:06:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:06:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:07:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:07:00 CST 2018
+11:07:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:07:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:07:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:07:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:08:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:08:00 CST 2018
+11:08:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:08:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:08:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:08:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:09:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:09:00 CST 2018
+11:09:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:09:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:09:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:09:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:10:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:10:00 CST 2018
+11:10:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:10:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:10:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:10:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:11:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:11:00 CST 2018
+11:11:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:11:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:11:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:11:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:12:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:12:00 CST 2018
+11:12:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:12:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:12:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:12:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:13:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:13:00 CST 2018
+11:13:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:13:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:13:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:13:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:14:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:14:00 CST 2018
+11:14:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:14:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:14:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:14:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:15:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:15:00 CST 2018
+11:15:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:15:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:15:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:15:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:16:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:16:00 CST 2018
+11:16:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:16:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:16:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:16:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:17:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:17:00 CST 2018
+11:17:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:17:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:17:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:17:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:18:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:18:00 CST 2018
+11:18:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:18:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:18:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:18:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:19:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:19:00 CST 2018
+11:19:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:19:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:19:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:19:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:20:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:20:00 CST 2018
+11:20:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:20:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:20:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:20:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:21:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:21:00 CST 2018
+11:21:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:21:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:21:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:21:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:22:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:22:00 CST 2018
+11:22:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:22:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:22:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:22:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:23:00.004 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:23:00 CST 2018
+11:23:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:23:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:23:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:23:00.010 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:24:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:24:00 CST 2018
+11:24:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:24:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:24:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:24:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:25:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:25:00 CST 2018
+11:25:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:25:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:25:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:25:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:26:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:26:00 CST 2018
+11:26:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:26:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:26:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:26:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:27:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:27:00 CST 2018
+11:27:00.000 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:27:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:27:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:27:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:28:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:28:00 CST 2018
+11:28:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:28:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:28:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:28:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:29:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:29:00 CST 2018
+11:29:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:29:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:29:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:29:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:30:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:30:00 CST 2018
+11:30:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:30:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:30:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:30:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:31:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:31:00 CST 2018
+11:31:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:31:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:31:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:31:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:32:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:32:00 CST 2018
+11:32:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:32:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:32:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:32:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:33:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:33:00 CST 2018
+11:33:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:33:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:33:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:33:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:34:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:34:00 CST 2018
+11:34:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:34:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:34:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:34:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:35:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:35:00 CST 2018
+11:35:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:35:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:35:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:35:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:36:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:36:00 CST 2018
+11:36:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:36:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:36:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:36:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:37:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:37:00 CST 2018
+11:37:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:37:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:37:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:37:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:38:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:38:00 CST 2018
+11:38:00.000 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:38:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:38:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:38:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:39:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:39:00 CST 2018
+11:39:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:39:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:39:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:39:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:40:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:40:00 CST 2018
+11:40:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:40:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:40:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:40:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:41:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:41:00 CST 2018
+11:41:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:41:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:41:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:41:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:42:00.005 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:42:00 CST 2018
+11:42:00.006 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:42:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:42:00.007 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:42:00.008 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:43:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:43:00 CST 2018
+11:43:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:43:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:43:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:43:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:44:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:44:00 CST 2018
+11:44:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:44:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:44:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:44:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:45:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:45:00 CST 2018
+11:45:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:45:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:45:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:45:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:46:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:46:00 CST 2018
+11:46:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:46:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:46:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:46:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:47:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:47:00 CST 2018
+11:47:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:47:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:47:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:47:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:48:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:48:00 CST 2018
+11:48:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:48:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:48:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:48:00.005 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:49:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:49:00 CST 2018
+11:49:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:49:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:49:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:49:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:50:00.000 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:50:00 CST 2018
+11:50:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:50:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:50:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:50:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:51:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:51:00 CST 2018
+11:51:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:51:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:51:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:51:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:52:00.002 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:52:00 CST 2018
+11:52:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:52:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:52:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:52:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:53:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:53:00 CST 2018
+11:53:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:53:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:53:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:53:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:54:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:54:00 CST 2018
+11:54:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:54:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:54:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:54:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:55:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:55:00 CST 2018
+11:55:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:55:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:55:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:55:00.004 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:56:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:56:00 CST 2018
+11:56:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:56:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:56:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:56:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:57:00.001 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 11:57:00 CST 2018
+11:57:00.001 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:57:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+11:57:00.002 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+11:57:00.003 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+12:01:16.459 [pool-1-thread-1] DEBUG o.s.s.d.r.RedisSessionExpirationPolicy:127 - Cleaning up sessions expiring at Wed Feb 14 12:01:00 CST 2018
+12:01:16.460 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+12:01:16.467 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection
+12:01:16.468 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:126 - Opening RedisConnection
+12:01:16.469 [pool-1-thread-1] DEBUG o.s.d.r.c.RedisConnectionUtils:210 - Closing Redis Connection

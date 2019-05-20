@@ -1,0 +1,36 @@
+logging:
+  config: logback.xml
+  level: INFO
+
+## Redis 配置
+## Redis单节点服务器地址
+spring:
+  redis:
+    host: 127.0.0.1
+    ## Redis服务器连接端口
+    port: 6379
+    ## Redis单节点服务器连接密码（默认为空）
+    password:
+    ## Redis数据库索引（默认为0）
+    database: 0
+
+#Druid数据库查询地址配置
+druid:
+  query:
+    #通过Sql查询的URL
+    jdbcurl: http://10.19.248.200:31035/druid/v2/sql
+    #通过Druid Querying查询的URL
+    queryingurl: http://10.37.151.22:8082/druid/v2
+    #datasource
+    userbehaviordatasource: User_Behavior
+
+elasticsearch:
+  cluster-name: elasticsearch
+  cluster-nodes: 127.0.0.1:9003 #配置es节点信息，逗号分隔，如果没有指定，则启动ClientNode
+  properties:
+    path:
+      logs: ./elasticsearch/log #elasticsearch日志存储目录
+      data: ./elasticsearch/data #elasticsearch数据存储目录
+
+server:
+  port: 8080

@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: test
+  jackson:
+    date-format: yyyy-MM-dd'T'HH:mm:ss'Z'
+    
